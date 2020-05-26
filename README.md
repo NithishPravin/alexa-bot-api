@@ -2,7 +2,7 @@
 
 * A very lightweight and simple artificial intelligence
 
-## warning - Make sure to install from v.0.0.9 or above lesser versions wont work sorry!
+## warning - Make sure to install from v.0.0.9 or above lower versions wont work sorry!
 
 
 ![Badge](https://img.shields.io/static/v1?label=version&message=v0.0.1&color=green)
