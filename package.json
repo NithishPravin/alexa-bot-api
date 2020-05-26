@@ -1,0 +1,34 @@
+{
+  "name": "alexa-bot-api",
+  "version": "0.1.2",
+  "description": "A very lightweight and simple artificial intelligence",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "superagent": "^5.2.2",
+    "md5": "^2.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "express": "*",
+    "nyc": "^15.0.1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "alexa",
+    "artificial-iintelligencee",
+    "ai",
+    "bot"
+  ],
+  "author": {
+    "name": "uniquedev"
+  },
+  "engines": {
+    "node": ">=0.12"
+  },
+  "files": [
+    "src"
+  ]
+}
