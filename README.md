@@ -8,7 +8,7 @@
 ![Badge](https://img.shields.io/static/v1?label=version&message=v0.0.1&color=green)
 ![Badge](https://img.shields.io/static/v1?label=package-name&message=alexa-bot-api&color=violet)
 ![Badge](https://img.shields.io/static/v1?label=difficulty-of-usage&message=very-easy&color=yellow)
-![Badge](https://img.shields.io/static/v1?label=developed-by-&message=epoxy-development&color=blue)
+![Badge](https://img.shields.io/static/v1?label=developed-by-&message=Unique/Dev&color=blue)
 ![Badge](https://img.shields.io/static/v1?label=node&message=>=0.12&color=purple)
 
 * Note: This package may have some bugs or sometimes wont work in node versions below v.12.x
