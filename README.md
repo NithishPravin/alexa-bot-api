@@ -23,6 +23,4 @@ ai.getReply("hello").then(reply => console.log(reply))
 
 ```
 
-## join the discord support server!
-[join support server](https://discord.gg/7nCwUb6) <-click
-
+# DarkFalconRs - proof
